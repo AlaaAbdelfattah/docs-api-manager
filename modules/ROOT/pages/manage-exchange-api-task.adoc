@@ -5,7 +5,7 @@ endif::[]
 
 To manage the API that you created using Design Center or any another application, you must first import it to Anypoint Exchange (Exchange). You can then import the API to API Manager, from which you can modify the API version, status, and other information. After saving your changes, deploy the API to CloudHUb or any other runtime.
 
-Before you you perform this procedure, ensure that you have the access permissions to an API in your organization's Exchange.
+Before you perform this procedure, ensure that you have the access permissions to an API in your organization's Exchange.
 
 To create an API instance by importing from Exchange:
 
